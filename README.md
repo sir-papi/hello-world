@@ -20,3 +20,8 @@ The minimal purple Obsidian theme, based on [MNM](https://github.com/itsjonq/mnm
 4. In Obsidian, open up **Settings**.
 5. Go to Appearance > Themes.
 6. Select "Taro" from the Theme dropdown menu.
+
+
+wait one minute... 
+how did he hard return
+can i put this `.desktop/coding` in?
